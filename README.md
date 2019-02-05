@@ -1,5 +1,5 @@
 # Projects
-This repository contains Machine Learning projects - Self-learning.
+This repository contains Machine Learning projects.
 
 #### [Finding_Donor_CharityML.ipynb](https://github.com/Minsifye/Projects/blob/master/Finding_Donors_CharityML.ipynb) - 
 Used Supervised Machine Learning Algorithms to find possible donors based on their features specified in the dataset. This project is completed under Udacity Nanodegree Program.
