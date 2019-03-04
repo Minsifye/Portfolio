@@ -16,5 +16,8 @@ Bank Churning Model to predict possibility of a customer to leave the bank, this
 
 
 
+### Image_Classifier_Model : Deep Learning, In Progress
+
+
 
 
