@@ -1,7 +1,6 @@
-# Portfolio
+## Developer : Monika Bagyal
 
-# Developer : Monika Bagyal
-# Machine Learning Projects 
+### Machine Learning Projects 
 
 
 #### [Finding_Donor_CharityML.ipynb](https://nbviewer.jupyter.org/github/Minsifye/Projects/blob/master/Finding_Donors_CharityML.ipynb) - 
