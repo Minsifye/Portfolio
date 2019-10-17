@@ -1,7 +1,8 @@
-# Projects
-This repository contains Machine Learning projects.
+# Portfolio
 
-#### Note: If Github does not load the project file(ipynb) then click on below links:
+# Developer : Monika Bagyal
+# Machine Learning Projects 
+
 
 #### [Finding_Donor_CharityML.ipynb](https://nbviewer.jupyter.org/github/Minsifye/Projects/blob/master/Finding_Donors_CharityML.ipynb) - 
 Used Supervised Machine Learning Algorithms to find possible donors based on their features specified in the dataset. This project is completed under Udacity Nanodegree Program.
