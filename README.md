@@ -4,7 +4,7 @@
 
 
 #### [Identifying_Suspicious_Activities_In_Financial_Data.ipynb](https://nbviewer.jupyter.org/github/Minsifye/Portfolio/blob/master/Identifying_Suspicious_Activities_In_Financial_Data.ipynb) - 
-This Jupyter Notebook is used to showcase, how suspicious activities can be caught using supervised learning algorithm using existing customer data under compliance department of a bank or financial institution. The results show that False Positives can be used reduced using Supervised Machine Learning algorithms, because these algorithms has potential to differentiate between regular and suspicious patterns of a customer activity. This project is created under ITCS 6156 - Machine Learning at UNC Charlotte.
+This Jupyter Notebook is used to showcase, how suspicious activities can be caught using a supervised learning algorithm using existing customer data under the compliance department of a bank or financial institution. The results show that False Positives can be reduced using Supervised Machine Learning algorithms because these algorithms have the potential to differentiate between regular and suspicious patterns of customer activity. This project is created under ITCS 6156 - Machine Learning at UNC Charlotte.
 
 
 #### [Finding_Donor_CharityML.ipynb](https://nbviewer.jupyter.org/github/Minsifye/Projects/blob/master/Finding_Donors_CharityML.ipynb) - 
@@ -26,6 +26,7 @@ Bank Churning Model is built to predict possibility of a customer to leave the b
 
 #### [HousingData_LinearRegression.ipynb](https://nbviewer.jupyter.org/github/Minsifye/Projects/blob/master/HousingData_LinearRegression.ipynb) -
 This project is one of the first project, I started working with. In this project, I am using Linear Regression model to predict house prices for king county, this dataset is taken from Kaggle platform.
+
 
 
 
