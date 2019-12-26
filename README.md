@@ -3,6 +3,10 @@
 ### Machine Learning Projects 
 
 
+#### [Identifying_Suspicious_Activities_In_Financial_Data.ipynb](https://nbviewer.jupyter.org/github/Minsifye/Portfolio/blob/master/Identifying_Suspicious_Activities_In_Financial_Data.ipynb) - 
+This Jupyter Notebook is used to showcase, how suspicious activities can be caught using supervised learning algorithm using existing customer data under compliance department of a bank or financial institution. The results show that False Positives can be used reduced using Supervised Machine Learning algorithms, because these algorithms has potential to differentiate between regular and suspicious patterns of a customer activity. This project is created under ITCS 6156 - Machine Learning at UNC Charlotte.
+
+
 #### [Finding_Donor_CharityML.ipynb](https://nbviewer.jupyter.org/github/Minsifye/Projects/blob/master/Finding_Donors_CharityML.ipynb) - 
 CharityML is a fictitious charity organization that provides financial support for people learning machine learning. In an effort to improve donor outreach effectiveness, I have built an algorithm that best identifies potential donors. My goal was to evaluate and optimize several different supervised learners to determine which algorithm will provide the highest donation yield. A Udacity Data Scientist Nanodegree Project-Term1.
 
