@@ -4,7 +4,7 @@
 
 
 #### [Identifying_Suspicious_Activities_In_Financial_Data.ipynb](https://nbviewer.jupyter.org/github/Minsifye/Portfolio/blob/master/Identifying_Suspicious_Activities_In_Financial_Data.ipynb) - 
-This Jupyter Notebook is used to showcase, how suspicious activities can be caught using a supervised learning algorithm using existing customer data under the compliance department of a bank or financial institution. The results show that False Positives can be reduced using Supervised Machine Learning algorithms because these algorithms have the potential to differentiate between regular and suspicious patterns of customer activity. This project is created under ITCS 6156 - Machine Learning at UNC Charlotte.
+This Jupyter Notebook is used to showcase, how suspicious activities can be caught using a supervised learning algorithm in existing customer data under the compliance department of a bank or financial institution. The results show that False Positives can be reduced using Supervised Machine Learning algorithms because these algorithms have the potential to differentiate between regular and suspicious patterns of customer activity. This project is created under ITCS 6156 - Machine Learning at UNC Charlotte.
 
 
 #### [Finding_Donor_CharityML.ipynb](https://nbviewer.jupyter.org/github/Minsifye/Projects/blob/master/Finding_Donors_CharityML.ipynb) - 
