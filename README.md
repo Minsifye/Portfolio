@@ -28,7 +28,7 @@ Bank Churning Model is built to predict possibility of a customer to leave the b
 This project is one of the first project, I started working with. In this project, I am using Linear Regression model to predict house prices for king county, this dataset is taken from Kaggle platform.
 
 #### Airbnb Seattle Data Analysis - In Progress
-    I am currently working on this project.
+I am currently working on this project.
 
 
 
