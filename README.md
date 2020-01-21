@@ -9,7 +9,7 @@ This Jupyter Notebook is used to showcase, how suspicious activities can be caug
 
 #### [Finding_Donor_CharityML.ipynb](https://nbviewer.jupyter.org/github/Minsifye/Projects/blob/master/Finding_Donors_CharityML.ipynb) - 
 CharityML is a fictitious charity organization that provides financial support for people learning machine learning. In an effort to improve donor outreach effectiveness, I have built an algorithm that best identifies potential donors. My goal was to evaluate and optimize several different supervised learners to determine which algorithm will provide the highest donation yield. A Udacity Data Scientist Nanodegree Project-Term1. 
-
+   
 
 
 #### [Image_Classifier_Model](https://nbviewer.jupyter.org/github/Minsifye/Portfolio/blob/master/ImageClassifier/Image%20Classifier%20Project.ipynb) - 
