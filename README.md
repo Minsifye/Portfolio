@@ -29,11 +29,12 @@ This project is one of the first project, I started working with. In this projec
 
 
 #### Stack Overflow Survey Data Analysis : [Code](https://github.com/Minsifye/Stack-Overflow-Survey-Data-Analysis/blob/master/StackOverflow_DataAnalysis_FirstLook.ipynb) or  [Quick View](https://nbviewer.jupyter.org/github/Minsifye/Stack-Overflow-Survey-Data-Analysis/blob/master/StackOverflow_DataAnalysis_FirstLook.ipynb)
-
+- Status - In progress
 - Description: This project is using StackOverFlow 2017 survey data. Objectives are:
    1. Finds Data Trends using Pandas library.
    2. Creating visuals to better understand the survey results, using Seaborn, Matplotlib and Pandas library.
    3. Predicting Salary based on given features.
+   
 
 #### Airbnb Seattle Data Analysis - In Progress
 Next in row
