@@ -28,12 +28,14 @@ Bank Churning Model is built to predict possibility of a customer to leave the b
 This project is one of the first project, I started working with. In this project, I am using Linear Regression model to predict house prices for king county, this dataset is taken from Kaggle platform.
 
 
+#### Stack Overflow Survey Data Analysis - In Progress   
+- [Code](https://github.com/Minsifye/Stack-Overflow-Survey-Data-Analysis/blob/master/StackOverflow_DataAnalysis_FirstLook.ipynb) 
+- [Quick View](https://nbviewer.jupyter.org/github/Minsifye/Stack-Overflow-Survey-Data-Analysis/blob/master/StackOverflow_DataAnalysis_FirstLook.ipynb)
 
-#### [Stack Overflow Survey Data Analysis - In Progress](https://nbviewer.jupyter.org/github/Minsifye/Stack-Overflow-Survey-Data-Analysis/blob/master/StackOverflow_DataAnalysis_FirstLook.ipynb) - In progress
-This project is using StackOverFlow 2017 survey data. Objectives are:
-1. Finds Data Trends using Pandas library.
-2. Creating visuals to better understand the survey results, using Seaborn, Matplotlib and Pandas library.
-3. Predicting Salary based on given features.
+- Description: This project is using StackOverFlow 2017 survey data. Objectives are:
+   1. Finds Data Trends using Pandas library.
+   2. Creating visuals to better understand the survey results, using Seaborn, Matplotlib and Pandas library.
+   3. Predicting Salary based on given features.
 
 #### Airbnb Seattle Data Analysis - In Progress
 Next in row
