@@ -1,6 +1,6 @@
 ## Developer : Monika Bagyal
 
-### Machine Learning Portfolio Projects 
+### Machine Learning Projects 
 
 
 #### [Identifying_Suspicious_Activities_In_Financial_Data.ipynb](https://nbviewer.jupyter.org/github/Minsifye/Identifying-Suspicious-Activities-in-Financial-Data/blob/master/Identifying_Suspicious_Activities_In_Financial_Data.ipynb) - 
