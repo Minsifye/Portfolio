@@ -30,15 +30,15 @@ In this project, I have implemented an image classification application using a 
 The data and design for this project were provided by Arvato Financial Services. I have applied unsupervised learning techniques on demographic and spending data for a sample of German households. I have preprocessed the data, applied dimensionality reduction techniques, and implemented clustering algorithms to segment customers with the goal of optimizing customer outreach for a mail-order company. A Udacity Data Scientist Nanodegree Project-Term1.
 
 
-#### Bank_Churn_Model.ipynb : [See Code](https://github.com/Minsifye/Churn-Prediction-Model-for-a-Bank/blob/master/Bank_Churn_Model.ipynb) or [Quick View](https://nbviewer.jupyter.org/github/Minsifye/Churn-Prediction-Model-for-a-Bank/blob/master/Bank_Churn_Model.ipynb) - 
+#### Bank Churn Model : [See Code](https://github.com/Minsifye/Churn-Prediction-Model-for-a-Bank/blob/master/Bank_Churn_Model.ipynb) or [Quick View](https://nbviewer.jupyter.org/github/Minsifye/Churn-Prediction-Model-for-a-Bank/blob/master/Bank_Churn_Model.ipynb) - 
 Bank Churning Model is built to predict possibility of a customer to leave the bank, this dataset is fictional and taken from https://www.superdatascience.com/machine-learning/ platform.
 
 
-#### HousingData_LinearRegression.ipynb : [See Code](https://github.com/Minsifye/House-Price-Prediction-Linear-Regression) or [Quick View](https://nbviewer.jupyter.org/github/Minsifye/House-Price-Prediction-Linear-Regression/blob/master/HousingData_LinearRegression.ipynb) -
+#### Housing Data Linear Regression : [See Code](https://github.com/Minsifye/House-Price-Prediction-Linear-Regression) or [Quick View](https://nbviewer.jupyter.org/github/Minsifye/House-Price-Prediction-Linear-Regression/blob/master/HousingData_LinearRegression.ipynb) -
 This project is one of the first project, I started working with. In this project, I am using Linear Regression model to predict house prices for king county, this dataset is taken from Kaggle platform.
 
 
-#### Airbnb Seattle Data Analysis - In Progress
+### Airbnb Seattle Data Analysis - In Progress
 Next in row
 
 
