@@ -1,6 +1,7 @@
 
-# Developer: Monika Bagyal
-# Connect : [LinkedIn](https://www.linkedin.com/in/mbagyal/)
+# Developer: Monika Bagyal  
+### [LinkedIn](https://www.linkedin.com/in/mbagyal/) - [Github](https://github.com/Minsifye) - [Kaggle](https://www.kaggle.com/minsifye)
+
 ### Machine Learning Projects List
 
 
