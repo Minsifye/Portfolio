@@ -41,6 +41,6 @@
    3. Predicting Salary based on given features.
    
 
-### [BigView - PearlHack2020 Project](https://minsifye.github.io/BigView/)
+### [BigView - PearlHack2020](https://minsifye.github.io/BigView/)
 - Natural Language Processing on Online Reviews Data, a BigView Idea
 - Simplifying Daily life buying decisions by getting insights from online reviews faster.
