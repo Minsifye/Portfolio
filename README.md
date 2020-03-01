@@ -3,7 +3,9 @@
 # Machine Learning Projects List
 
 
-### [Image Classifier Model](https://github.com/Minsifye/Image-Classifier-Model/blob/master/Image%20Classifier%20Project.ipynb) [Quick View](https://nbviewer.jupyter.org/github/Minsifye/Image-Classifier-Model/blob/master/Image%20Classifier%20Project.ipynb)
+### Image Classifier Model 
+[See Code](https://github.com/Minsifye/Image-Classifier-Model/blob/master/Image%20Classifier%20Project.ipynb) or [Quick View](https://nbviewer.jupyter.org/github/Minsifye/Image-Classifier-Model/blob/master/Image%20Classifier%20Project.ipynb)
+
 In this project, I have implemented an image classification application using a deep learning model on a dataset of images. First I have trained the model to classify new images using Jupyter notebook and then converted it into a Python application that will run from the command line in a system. A Udacity Data Scientist Nanodegree Project-Term1.
 
 
