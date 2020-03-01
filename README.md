@@ -1,12 +1,13 @@
-# Developer : Monika Bagyal
 
-## Machine Learning Projects 
 
-### Image Classifier Model : [See Code](https://github.com/Minsifye/Image-Classifier-Model/blob/master/Image%20Classifier%20Project.ipynb) or [Quick View](https://nbviewer.jupyter.org/github/Minsifye/Image-Classifier-Model/blob/master/Image%20Classifier%20Project.ipynb) - 
+# Machine Learning Projects List
+
+
+### [Image Classifier Model](https://github.com/Minsifye/Image-Classifier-Model/blob/master/Image%20Classifier%20Project.ipynb) [Quick View](https://nbviewer.jupyter.org/github/Minsifye/Image-Classifier-Model/blob/master/Image%20Classifier%20Project.ipynb)
 In this project, I have implemented an image classification application using a deep learning model on a dataset of images. First I have trained the model to classify new images using Jupyter notebook and then converted it into a Python application that will run from the command line in a system. A Udacity Data Scientist Nanodegree Project-Term1.
 
 
-### Identify Customer Segments : [See Code](https://github.com/Minsifye/Identify_Customer_Segments/blob/master/Identify_Customer_Segments.ipynb) or [Quick View](https://nbviewer.jupyter.org/github/Minsifye/Identify_Customer_Segments/blob/master/Identify_Customer_Segments.ipynb) - 
+### Identify Customer Segments : [See Code](https://github.com/Minsifye/Identify_Customer_Segments/blob/master/Identify_Customer_Segments.ipynb) or [Quick View](https://nbviewer.jupyter.org/github/Minsifye/Identify_Customer_Segments/blob/master/Identify_Customer_Segments.ipynb) 
 The data and design for this project were provided by Arvato Financial Services. I have applied unsupervised learning techniques on demographic and spending data for a sample of German households. I have preprocessed the data, applied dimensionality reduction techniques, and implemented clustering algorithms to segment customers with the goal of optimizing customer outreach for a mail-order company. A Udacity Data Scientist Nanodegree Project-Term1.
 
 ### Finding Donor Charity Model : [See Code](https://github.com/Minsifye/Finding_Donors_CharityML/blob/master/Finding_Donors_CharityML.ipynb) or [Quick View](https://nbviewer.jupyter.org/github/Minsifye/Finding_Donors_CharityML/blob/master/Finding_Donors_CharityML.ipynb) - 
