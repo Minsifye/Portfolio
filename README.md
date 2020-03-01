@@ -41,8 +41,5 @@
    3. Predicting Salary based on given features.
    
 
-### Airbnb Seattle Data Analysis 
-- In Progress
-
 
 
