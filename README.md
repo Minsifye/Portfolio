@@ -42,5 +42,5 @@
    
 
 ### [BigView - PearlHack2020](https://minsifye.github.io/BigView/)
-- Natural Language Processing on Online Reviews Data, a BigView Idea
+- Natural Language Processing on Online Reviews Data, a BigView Idea. Created at Pearl Hackathon event at UNC Chapel Hill.
 - Simplifying Daily life buying decisions by getting insights from online reviews faster.
