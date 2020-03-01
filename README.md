@@ -1,6 +1,7 @@
 
-
-# Machine Learning Projects List
+# Developer: Monika Bagyal
+# Connect : [LinkedIn](https://www.linkedin.com/in/mbagyal/)
+### Machine Learning Projects List
 
 
 ### Image Classifier Model 
