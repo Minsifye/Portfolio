@@ -41,7 +41,7 @@
    3. Predicting Salary based on given features - pending
 
 
-#### [Kaggle](https://www.kaggle.com/minsifye)
+#### Let's Connect
 
 
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="mbagyal"><a class="LI-simple-link" href='https://www.linkedin.com/in/mbagyal?trk=profile-badge'>Monika Bagyal</a></div>
