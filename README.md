@@ -1,15 +1,4 @@
-
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="mbagyal"><a class="LI-simple-link" href='https://www.linkedin.com/in/mbagyal?trk=profile-badge'>Monika Bagyal</a></div>
-
-<p align="center">
-   My Projects List
-</p>
-
-   
-      
-         
-         
-
+<h2 align="center">Projects</h2>
 
 
 ### [BigView - PearlHack2020](https://minsifye.github.io/BigView/)
@@ -50,8 +39,13 @@
    1. Finds Data Trends using Pandas library - completed
    2. Creating visuals to better understand the survey results, using Seaborn, Matplotlib and Pandas library - completed
    3. Predicting Salary based on given features - pending
-   
-### [Kaggle](https://www.kaggle.com/minsifye)
+
+
+#### [Kaggle](https://www.kaggle.com/minsifye)
+
+
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="mbagyal"><a class="LI-simple-link" href='https://www.linkedin.com/in/mbagyal?trk=profile-badge'>Monika Bagyal</a></div>
+
 
 
 
