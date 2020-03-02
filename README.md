@@ -20,16 +20,16 @@
 
 
 ### [Finding Donor Charity Model](https://github.com/Minsifye/Finding_Donors_CharityML/blob/master/Finding_Donors_CharityML.ipynb) 
-- CharityML is a fictitious charity organization that provides financial support for people learning machine learning. In an effort to improve donor outreach effectiveness, I have built an algorithm that best identifies potential donors. My goal was to evaluate and optimize several different supervised learners to determine which algorithm will provide the highest donation yield. A Udacity Data Scientist Nanodegree Project-Term1. Created on Jan,2019 [Quick View](https://nbviewer.jupyter.org/github/Minsifye/Finding_Donors_CharityML/blob/master/Finding_Donors_CharityML.ipynb) 
+- CharityML is a fictitious charity organization that provides financial support for people learning machine learning. In an effort to improve donor outreach effectiveness, I have built an algorithm that best identifies potential donors. My goal was to evaluate and optimize several different supervised learners to determine which algorithm will provide the highest donation yield. A Udacity Data Scientist Nanodegree Project-Term1. Created on Jan,2019 [Quick View](https://nbviewer.jupyter.org/github/Minsifye/Finding_Donors_CharityML/blob/master/Finding_Donors_CharityML.ipynb).
 
 
 
 ### [Bank Churn Model](https://github.com/Minsifye/Churn-Prediction-Model-for-a-Bank/blob/master/Bank_Churn_Model.ipynb) 
-- Bank Churning Model is built to predict possibility of a customer to leave the bank, this dataset is fictional and taken from https://www.superdatascience.com/machine-learning/ platform. Created on Jan,2019 [Quick View](https://nbviewer.jupyter.org/github/Minsifye/Churn-Prediction-Model-for-a-Bank/blob/master/Bank_Churn_Model.ipynb) - 
+- Bank Churning Model is built to predict possibility of a customer to leave the bank, this dataset is fictional and taken from https://www.superdatascience.com/machine-learning/ platform. Created on Jan,2019 [Quick View](https://nbviewer.jupyter.org/github/Minsifye/Churn-Prediction-Model-for-a-Bank/blob/master/Bank_Churn_Model.ipynb).
 
 
 ### [Housing Data Linear Regression](https://github.com/Minsifye/House-Price-Prediction-Linear-Regression) 
-- This project is one of the first project, I started working with. In this project, I am using Linear Regression model to predict house prices for king county, this dataset is taken from Kaggle platform. Created on Jan,2019 [Quick View](https://nbviewer.jupyter.org/github/Minsifye/House-Price-Prediction-Linear Regression/blob/master/HousingData_LinearRegression.ipynb)
+- This project is one of the first project, I started working with. In this project, I am using Linear Regression model to predict house prices for king county, this dataset is taken from Kaggle platform. Created on Jan,2019 [Quick View](https://nbviewer.jupyter.org/github/Minsifye/House-Price-Prediction-Linear Regression/blob/master/HousingData_LinearRegression.ipynb).
 
 
 
