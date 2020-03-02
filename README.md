@@ -50,7 +50,10 @@
    2. Creating visuals to better understand the survey results, using Seaborn, Matplotlib and Pandas library - completed
    3. Predicting Salary based on given features - pending
    
+### [Kaggle](https://www.kaggle.com/minsifye)
+
+
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
-### [Kaggle](https://www.kaggle.com/minsifye)
+
