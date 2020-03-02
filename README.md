@@ -34,7 +34,7 @@
 
 
 
-### [Stack Overflow Survey Analysis](https://github.com/Minsifye/Stack-Overflow-Survey-Data-Analysis/blob/master/StackOverflow_DataAnalysis_FirstLook.ipynb)
+### [Stack-Overflow Survey Analysis](https://github.com/Minsifye/Stack-Overflow-Survey-Data-Analysis/blob/master/StackOverflow_DataAnalysis_FirstLook.ipynb)
 - Overall Status - In progress
 - Description: This project is using StackOverFlow 2017 survey data. Objectives are:
    1. Finds Data Trends using Pandas library - completed
