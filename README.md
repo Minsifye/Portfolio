@@ -27,7 +27,7 @@
 - Bank Churning Model is built to predict possibility of a customer to leave the bank, this dataset is fictional and taken from https://www.superdatascience.com/machine-learning/ platform. Created on Jan,2019 [Quick View](https://nbviewer.jupyter.org/github/Minsifye/Churn-Prediction-Model-for-a-Bank/blob/master/Bank_Churn_Model.ipynb).
 
 
-### [Housing Data Linear Regression](https://github.com/Minsifye/House-Price-Prediction-Linear-Regression) 
+### [Housing Data Linear Regression](https://github.com/Minsifye/House-Price-Prediction-Linear-Regression/blob/master/HousingData_LinearRegression.ipynb) 
 - This project is one of the first project, I started working with. In this project, I am using Linear Regression model to predict house prices for king county, this dataset is taken from Kaggle platform. Created on Jan,2019 [Quick View](https://nbviewer.jupyter.org/github/Minsifye/House-Price-Prediction-Linear Regression/blob/master/HousingData_LinearRegression.ipynb).
 
 
