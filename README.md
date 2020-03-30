@@ -34,12 +34,14 @@
 
 
 ### [Stack-Overflow Survey Analysis](https://github.com/Minsifye/Stack-Overflow-Survey-Data-Analysis/blob/master/StackOverflow_DataAnalysis_FirstLook.ipynb)
-- Overall Status - In progress
-- Description: This project is using StackOverFlow 2017 survey data. Objectives are:
-   1. Finds Data Trends using Pandas library - completed
-   2. Creating visuals to better understand the survey results, using Seaborn, Matplotlib and Pandas library - completed
-   3. Predicting Salary based on given features - pending
 
+For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
+
+1. How other developers suggested breaking into the field (what education to pursue)?
+2. What factors about an individual contributed to salary?
+3. What was the state of bootcamps for assisting individuals with breaking into developer roles?
+4. How were bootcamps assisting with increasing diversity in tech careers?
+5. According to EmploymentStatus, which group has the highest average Career satisfaction?
 
 #### Let's Connect
 
