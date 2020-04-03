@@ -44,6 +44,9 @@ For this project, I was interestested in using Stack Overflow data from 2017 to 
 4. How were bootcamps assisting with increasing diversity in tech careers?
 5. According to EmploymentStatus, which group has the highest average Career satisfaction?
 
+The main findings of the code can be found at the Medium post available [here](https://towardsdatascience.com/how-to-perform-data-analysis-using-the-crisp-dm-approach-201708f220b2?source=friends_link&sk=afc2bdef4cb0b17d1dde208aa8cd3eb2).
+
+
 
 ### [BigView - PearlHack2020](https://minsifye.github.io/BigView/)
 - Natural Language Processing on Online Reviews Data, a BigView Idea. Created at Pearl Hackathon event at UNC Chapel Hill.
