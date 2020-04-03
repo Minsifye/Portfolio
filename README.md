@@ -1,6 +1,53 @@
 <h2 align="center">Projects</h2>
 
 
+### [Spark Project: Sparkify](https://github.com/Minsifye/Sparkify)
+
+Sparkify is a fictional music streaming service like Spotify or Pandora. I will be using Sparkify Churn Prediction as a problem statement. The main findings of the code can be found at the Medium post available [here](https://medium.com/@monika.bagyal/how-to-predict-customer-churn-using-machine-learning-model-on-spark-99f5277993b7).
+
+Future Works
+- In the future, I can try to separate the whole dataset in monthly or weekly data and predict for next month or week churned customers.
+- I can use more advance machine learning techniques, by combining two or more algorithms to improve the overall prediction rate.
+- I can run this over the AWS cluster to see the model performance and use cross-validation for a better f1 score.
+
+
+
+
+### [Disaster Response Pipeline Project](https://github.com/Minsifye/Disaster_Response_Project)
+
+To analyze disaster data from Figure Eight to build a model for an API that classifies disaster messages.
+
+- The outcome of this project is to start from scratch with a dataset, create a ETL pipeline for data engineering job and create a Machine Learning pipeline to train a model which can read text data and predict 36 classification categories.
+- At the end, use that trained and tuned ML model and use to predict any new message and find which disaster category it will fit.
+- Create a front-end application using flask to showcase visualization and model disaster category prediction on a webpage.
+
+
+### [Recommendations with IBM Project](https://github.com/Minsifye/Recommendations_with_IBM/blob/master/Recommendations_with_IBM.ipynb)
+
+Analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles you think they will like.
+
+This project is divided into the following tasks:
+
+I. Exploratory Data Analysis
+
+II. Rank Based Recommendations
+
+III. User-User Based Collaborative Filtering
+
+V. Matrix Factorization
+
+
+### [Stack-Overflow Survey Analysis](https://github.com/Minsifye/Stack-Overflow-Survey-Data-Analysis/blob/master/StackOverflow_DataAnalysis_FirstLook.ipynb)
+
+For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
+
+1. How other developers suggested breaking into the field (what education to pursue)?
+2. What factors about an individual contributed to salary?
+3. What was the state of bootcamps for assisting individuals with breaking into developer roles?
+4. How were bootcamps assisting with increasing diversity in tech careers?
+5. According to EmploymentStatus, which group has the highest average Career satisfaction?
+
+
 ### [BigView - PearlHack2020](https://minsifye.github.io/BigView/)
 - Natural Language Processing on Online Reviews Data, a BigView Idea. Created at Pearl Hackathon event at UNC Chapel Hill.
 - Simplifying Daily life buying decisions by getting insights from online reviews faster.
@@ -33,15 +80,9 @@
 
 
 
-### [Stack-Overflow Survey Analysis](https://github.com/Minsifye/Stack-Overflow-Survey-Data-Analysis/blob/master/StackOverflow_DataAnalysis_FirstLook.ipynb)
 
-For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
 
-1. How other developers suggested breaking into the field (what education to pursue)?
-2. What factors about an individual contributed to salary?
-3. What was the state of bootcamps for assisting individuals with breaking into developer roles?
-4. How were bootcamps assisting with increasing diversity in tech careers?
-5. According to EmploymentStatus, which group has the highest average Career satisfaction?
+
 
 #### Let's Connect
 
