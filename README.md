@@ -13,7 +13,7 @@ Future Works
 
 
 
-### [Disaster Response Pipeline Project](https://github.com/Minsifye/Disaster_Response_Project)
+### [Disaster Response Pipeline](https://github.com/Minsifye/Disaster_Response_Project)
 
 To analyze disaster data from Figure Eight to build a model for an API that classifies disaster messages.
 
@@ -22,19 +22,16 @@ To analyze disaster data from Figure Eight to build a model for an API that clas
 - Create a front-end application using flask to showcase visualization and model disaster category prediction on a webpage.
 
 
-### [Recommendations with IBM Project](https://github.com/Minsifye/Recommendations_with_IBM/blob/master/Recommendations_with_IBM.ipynb)
+### [Recommendations with IBM](https://github.com/Minsifye/Recommendations_with_IBM/blob/master/Recommendations_with_IBM.ipynb)
 
 Analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles you think they will like.
 
 This project is divided into the following tasks:
 
-I. Exploratory Data Analysis
-
-II. Rank Based Recommendations
-
-III. User-User Based Collaborative Filtering
-
-V. Matrix Factorization
+- I. Exploratory Data Analysis
+- II. Rank Based Recommendations
+- III. User-User Based Collaborative Filtering
+- V. Matrix Factorization
 
 
 ### [Stack-Overflow Survey Analysis](https://github.com/Minsifye/Stack-Overflow-Survey-Data-Analysis/blob/master/StackOverflow_DataAnalysis_FirstLook.ipynb)
