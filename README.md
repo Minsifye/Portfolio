@@ -36,13 +36,14 @@ This project is divided into the following tasks:
 
 ### [Stack-Overflow Survey Analysis](https://github.com/Minsifye/Stack-Overflow-Survey-Data-Analysis/blob/master/StackOverflow_DataAnalysis_FirstLook.ipynb)
 
-For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
+I have used CRISP-DM process during this analysis.
 
-1. How other developers suggested breaking into the field (what education to pursue)?
-2. What factors about an individual contributed to salary?
-3. What was the state of bootcamps for assisting individuals with breaking into developer roles?
-4. How were bootcamps assisting with increasing diversity in tech careers?
-5. According to EmploymentStatus, which group has the highest average Career satisfaction?
+1. Business Understanding - Started analysis with posed questions in mind.
+2. Data Understanding - To better understand the data, I started going through the dataset and noted points as how to use it for my analysis. For example: which columns will be helpful to answer a particular questions?
+3. Prepare Data - At various points, I have to do data wrangling and perform data transformation to achieve the results. Keeping DRY techniques in mind, I have also created a function to draw plotly barchart as this code was repeating often.
+4. Model Data - My analysis does not involve modeling step. I might add this in my future work.
+Results - I am using visualizations like barchart and piecharts to convey my findings, also added result statements at the end of every visualization for easy understanding of thought process.
+5. Deploy - I am not deploying this code anywhere right now. For now, it is available in jupyter notebook form only.
 
 The main findings of the code can be found at the Medium post available [here](https://towardsdatascience.com/how-to-perform-data-analysis-using-the-crisp-dm-approach-201708f220b2?source=friends_link&sk=afc2bdef4cb0b17d1dde208aa8cd3eb2).
 
