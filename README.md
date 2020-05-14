@@ -83,8 +83,7 @@ The main findings of the code can be found at the Medium post available [here](h
 - In this project, I am using Linear Regression model to predict house prices for king county, this dataset is taken from Kaggle platform. Created on Jan,2019 [Quick View](https://nbviewer.jupyter.org/github/Minsifye/House-Price-Prediction-Linear Regression/blob/master/HousingData_LinearRegression.ipynb).
 
 
-
-https://medium.com/@monika.bagyal
+[Medium](https://medium.com/@monika.bagyal)
 
 #### Let's Connect
 
