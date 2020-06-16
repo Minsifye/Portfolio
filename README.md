@@ -1,4 +1,5 @@
-<h2 align="center">Projects</h2>
+<h2 align="center">Monika Bagyal</h2>
+<h3 align="center">Data Science Portfolio</h3>
 
 
 ### [Spark Project: Sparkify](https://github.com/Minsifye/Sparkify)
