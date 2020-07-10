@@ -35,7 +35,7 @@ This project is divided into the following tasks:
 - V. Matrix Factorization
 
 
-### [Stack-Overflow Survey Analysis](https://github.com/Minsifye/Stack-Overflow-Survey-Data-Analysis/blob/master/StackOverflow_DataAnalysis_FirstLook.ipynb)
+### [Stack-Overflow Survey Analysis](https://nbviewer.jupyter.org/github/Minsifye/Stack-Overflow-Survey-Data-Analysis/blob/master/StackOverflow_DataAnalysis.ipynb)
 
 I have used CRISP-DM process during this analysis.
 
