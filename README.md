@@ -86,13 +86,4 @@ The main findings of the code can be found at the Medium post available [here](h
 
 [Medium](https://medium.com/@monika.bagyal)
 
-#### Let's Connect
-
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="mbagyal"><a class="LI-simple-link" href='https://www.linkedin.com/in/mbagyal?trk=profile-badge'>Monika Bagyal</a></div>
-
-
-
-
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-
 
